@@ -1,0 +1,15 @@
+/Users/stelioskiliaris/Downloads/MS-Learn-C-/Lesson2/Module2/CsharpProjects/TestProject/bin/Debug/net10.0/TestProject
+/Users/stelioskiliaris/Downloads/MS-Learn-C-/Lesson2/Module2/CsharpProjects/TestProject/bin/Debug/net10.0/TestProject.deps.json
+/Users/stelioskiliaris/Downloads/MS-Learn-C-/Lesson2/Module2/CsharpProjects/TestProject/bin/Debug/net10.0/TestProject.runtimeconfig.json
+/Users/stelioskiliaris/Downloads/MS-Learn-C-/Lesson2/Module2/CsharpProjects/TestProject/bin/Debug/net10.0/TestProject.dll
+/Users/stelioskiliaris/Downloads/MS-Learn-C-/Lesson2/Module2/CsharpProjects/TestProject/bin/Debug/net10.0/TestProject.pdb
+/Users/stelioskiliaris/Downloads/MS-Learn-C-/Lesson2/Module2/CsharpProjects/TestProject/obj/Debug/net10.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stelioskiliaris/Downloads/MS-Learn-C-/Lesson2/Module2/CsharpProjects/TestProject/obj/Debug/net10.0/TestProject.AssemblyInfoInputs.cache
+/Users/stelioskiliaris/Downloads/MS-Learn-C-/Lesson2/Module2/CsharpProjects/TestProject/obj/Debug/net10.0/TestProject.AssemblyInfo.cs
+/Users/stelioskiliaris/Downloads/MS-Learn-C-/Lesson2/Module2/CsharpProjects/TestProject/obj/Debug/net10.0/TestProject.csproj.CoreCompileInputs.cache
+/Users/stelioskiliaris/Downloads/MS-Learn-C-/Lesson2/Module2/CsharpProjects/TestProject/obj/Debug/net10.0/TestProject.sourcelink.json
+/Users/stelioskiliaris/Downloads/MS-Learn-C-/Lesson2/Module2/CsharpProjects/TestProject/obj/Debug/net10.0/TestProject.dll
+/Users/stelioskiliaris/Downloads/MS-Learn-C-/Lesson2/Module2/CsharpProjects/TestProject/obj/Debug/net10.0/refint/TestProject.dll
+/Users/stelioskiliaris/Downloads/MS-Learn-C-/Lesson2/Module2/CsharpProjects/TestProject/obj/Debug/net10.0/TestProject.pdb
+/Users/stelioskiliaris/Downloads/MS-Learn-C-/Lesson2/Module2/CsharpProjects/TestProject/obj/Debug/net10.0/TestProject.genruntimeconfig.cache
+/Users/stelioskiliaris/Downloads/MS-Learn-C-/Lesson2/Module2/CsharpProjects/TestProject/obj/Debug/net10.0/ref/TestProject.dll
